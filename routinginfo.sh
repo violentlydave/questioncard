@@ -14,13 +14,14 @@
 
 #ROUTE#BankName#RouteNumber#Notes
 #
+#ROUTE#Bancorp Bank#031101169#Paypal Prepaid cards use Bancorp routing - https://www.paypal-community.com/t5/Products-and-Services/How-do-I-find-the-account-number-and-routing-number-for-paypal/td-p/610180
+#ROUTE#GreenDot#124303120#GreenDot - found in phish - 
 #ROUTE#MetaBank#124085244#NetSpend cards use Metabank Routing, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
 #ROUTE#MetaBank#273070278#NetSpend cards use Metabank Routing, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
 #ROUTE#MetaBank#273970116#NetSpend cards use Metabank Routing, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
 #ROUTE#MetaBank#291471024#NetSpend cards use Metabank Routing, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
 #ROUTE#MetaBank#073972181#NetSpend cards use Metabank Routing, found by creating account, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
 #ROUTE#MetaBank#084003997#NetSpend cards use Metabank Routing, 12 real locations - https://www.usbanklocations.com/routing-number-073972181.html
-#ROUTE#GreenDot#124303120#GreenDot - found in phish - 
 
 IFS=$'\n'
 
